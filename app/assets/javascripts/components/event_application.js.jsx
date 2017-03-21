@@ -1,0 +1,3 @@
+var EventApplication = React.createClass({
+
+})
